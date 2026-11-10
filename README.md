@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**prenzbelirDev/prenzbelirDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prenz, a Computer Engineering graduate passionate about technology and software development.
 
-Here are some ideas to get you started:
+I enjoy learning how things work, building projects, and turning ideas into real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring React, Next.js, Node.js, and backend development as I continue my journey toward becoming a Full-Stack Developer.
+
+I love experimenting with new technologies, solving problems, and continuously improving my skills.
+
+Fun Facts:
+
+Computer Engineering graduate 🎓
+
+Interested in software development and AI
+
+Hobbies: Online gaming, watching K-dramas, and exploring new technologies
+
+Always curious about how things work 🚀
